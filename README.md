@@ -1,6 +1,10 @@
 # Spelling and Grammar checker
 A simple UI based spelling and grammar checker built with :heart: powered by gingerit which is a wrapper around the gingersoftware.com API.
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/110236764-ac0ab100-7f5d-11eb-96db-3d014b8d12ea.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/110236764-ac0ab100-7f5d-11eb-96db-3d014b8d12ea.gif"/> 
+</kbd>
+
 ## Installation:
 ***pip install -r requirements.txt*** does the needful as usual :wink:
 
