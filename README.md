@@ -1,1 +1,1 @@
-# Spelling-and-Grammar-checker
+# Spelling and Grammar checker
