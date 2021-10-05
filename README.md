@@ -1,4 +1,4 @@
-# Spelling and Grammar checker
+# Spelling and Grammar checker [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 A simple UI based spelling and grammar checker built with :heart: powered by gingerit which is a wrapper around the gingersoftware.com API.
 
 <kbd>
